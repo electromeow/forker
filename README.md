@@ -15,6 +15,8 @@ forker redis-server >> /dev/null
 # Or run the development server for the website you are working on
 forker python3 -m http.server 8080 >> /dev/null
 ```
-## License
+
+## License
+
 This project is distributed under MIT license.
 
